@@ -9,3 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=alper-oz&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alper-oz&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alper-oz&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0SrGfQS8tME1evNBTJPNVn?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
